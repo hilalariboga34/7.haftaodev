@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\bin\Debug\net8.0\calisanyonetim.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\bin\Debug\net8.0\calisanyonetim.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\bin\Debug\net8.0\calisanyonetim.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\bin\Debug\net8.0\calisanyonetim.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\bin\Debug\net8.0\calisanyonetim.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\refint\calisanyonetim.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\calisanyonetim.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\calisanyonetim\calisanyonetim\obj\Debug\net8.0\ref\calisanyonetim.dll

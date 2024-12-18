@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net8.0\HayvanatBahcesi.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net8.0\HayvanatBahcesi.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net8.0\HayvanatBahcesi.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net8.0\HayvanatBahcesi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net8.0\HayvanatBahcesi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\refint\HayvanatBahcesi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\HayvanatBahcesi.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net8.0\ref\HayvanatBahcesi.dll
